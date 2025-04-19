@@ -11,26 +11,15 @@
   </mj-head>
   <mj-body background-color="lightblue">
     <!-- Header -->
-    <mj-section background-color="#D2E8FF" padding="20px 20px 30px">
+    <mj-section background-color="#D2E8FF" padding="20px 20px 10px">
       <mj-column>
-        <mj-text
+        <mj-image
           align="center"
-          font-size="22px"
-          font-family="Poppins, Arial, sans-serif"
-          color="#205387"
-        >
-          Welcome To
-        </mj-text>
-        <mj-text
-          align="center"
-          font-size="32px"
-          font-family="Poppins, Arial, sans-serif"
-          color="#205387"
-          font-weight="bold"
-          padding="15px 0 0 0"
-        >
-          West Covina Dentistry
-        </mj-text>
+          width="240px"
+          href="https://www.stevenme.com"
+          src="https://www.stevenme.com/email-images/WCDentistryWelcome/WCDLogo.png"
+          alt="West Covina Dentistry Logo"
+        />
       </mj-column>
     </mj-section>
     <!-- Welcome Paragraph -->
