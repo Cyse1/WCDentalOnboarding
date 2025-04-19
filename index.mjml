@@ -1,0 +1,231 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Poppins"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    />
+    <mj-preview>
+      We're excited to welcome you to West Covina Dentistry!
+    </mj-preview>
+    <mj-title>Smile Brighter With West Covina Dentistry</mj-title>
+  </mj-head>
+  <mj-body background-color="lightblue">
+    <!-- Header -->
+    <mj-section background-color="#D2E8FF" padding="20px 20px 30px">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="22px"
+          font-family="Poppins, Arial, sans-serif"
+          color="#205387"
+        >
+          Welcome To
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="32px"
+          font-family="Poppins, Arial, sans-serif"
+          color="#205387"
+          font-weight="bold"
+          padding="15px 0 0 0"
+        >
+          West Covina Dentistry
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Welcome Paragraph -->
+    <mj-section padding="30px 20px 10px" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          color="#205387"
+          font-size="18px"
+          line-height="1.4"
+          align="center"
+          font-family="Poppins, Arial, Sans-serif"
+        >
+          Thank you for choosing West Covina Dentistry — we’re thrilled to
+          welcome you to our dental family!<br /><br />
+          Our friendly team is committed to making your visits comfortable, your
+          questions answered, and your smile brighter than ever.<br /><br />
+          We’re excited to be part of your journey to lifelong dental health!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- CTA Schedule today Button -->
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column>
+        <mj-button
+          font-family="Poppins, Arial, sans-serif"
+          background-color="#3db2ff"
+          border-radius="10px"
+          font-size="18px"
+          padding="10px 25px"
+          href="https://www.stevenme.com"
+        >
+          Schedule Your First Visit
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Meet the Dr. -->
+    <mj-section background-color="#ffffff" padding="30px 20px 10px 20px">
+      <mj-column>
+        <mj-text
+          color="#205387"
+          font-size="26px"
+          line-height="1.4"
+          align="center"
+          font-family="Poppins, Arial, Sans-serif"
+        >
+          Meet Dr. Steven Jalawi
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Divider -->
+    <mj-section background-color="#ffffff" padding="0 20px 10px 20px">
+      <mj-column>
+        <mj-divider
+          border-width="1px"
+          width="40%"
+          border-color="#d2e8ff"
+          align="center"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Dr. Presentation -->
+    <mj-section background-color="#ffffff" padding="10px 20px 20px">
+      <mj-column>
+        <mj-image
+          width="250px"
+          padding="0"
+          src="https://www.stevenme.com/email-images/WCDentistryWelcome/DentistOpti.jpg"
+          alt="Image of our Dentist"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text
+          color="#205387"
+          font-size="18px"
+          line-height="1.5"
+          font-family="Poppins, Arial, sans-serif"
+          padding="10px 0 0 20px"
+        >
+          Dr. Steven Jalawi is passionate about creating a positive dental
+          experience for every patient.<br /><br />
+          With over 15 years of experience in family and cosmetic dentistry, he
+          is dedicated to providing gentle, personalized care in a welcoming
+          environment.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Accreditations You can trust -->
+    <mj-section background-color="#f7f7f7" padding="20px 20px 0">
+      <mj-column>
+        <mj-text
+          color="#205387"
+          font-size="26px"
+          align="center"
+          font-family="Poppins, Arial, sans-serif"
+        >
+          Accreditations You Can Trust
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Divider -->
+    <mj-section background-color="#f7f7f7" padding="0 20px 10px 20px">
+      <mj-column>
+        <mj-divider
+          border-width="1px"
+          width="40%"
+          border-color="#d2e8ff"
+          align="center"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Accreditations img -->
+    <mj-section background-color="#f7f7f7" padding="0 20px 20px">
+      <mj-column padding="0">
+        <mj-image
+          padding="0"
+          src="https://www.stevenme.com/email-images/WCDentistryWelcome/AccredVer2.png"
+          alt="Accreditations from ADA, AGD, AAD, CDA"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- What to expect first visit -->
+    <mj-section background-color="#ffffff" padding="40px 20px 0">
+      <mj-column>
+        <mj-text
+          color="#205387"
+          font-size="26px"
+          align="center"
+          font-family="Poppins, Arial, sans-serif"
+        >
+          Our Commitment to Your Comfort
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Divider -->
+    <mj-section background-color="#ffffff" padding="0 20px 10px 20px">
+      <mj-column>
+        <mj-divider
+          border-width="1px"
+          width="40%"
+          border-color="#d2e8ff"
+          align="center"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- what to expect text area -->
+    <mj-section background-color="#ffffff" padding="10px 20px 40px">
+      <mj-column>
+        <mj-image
+          width="250px"
+          padding="0"
+          src="https://www.stevenme.com/email-images/WCDentistryWelcome/expect.png"
+          alt="Patient Smiling at dental office"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text
+          color="#205387"
+          font-size="18px"
+          line-height="1.4"
+          font-family="Poppins, Arial, sans-serif"
+          padding="10px 0 0 20px"
+        >
+          At West Covina Dentistry, your comfort is our top priority.<br /><br />
+          Whether it's your first visit or your fiftieth, we focus on gentle
+          care, open communication, and creating a positive dental experience
+          &mdash; every time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- FOoter -->
+    <mj-section background-color="#f7f7f7">
+      <mj-column width="90%">
+        <mj-text padding="10px" align="center" color="#7a7a7a" font-size="14px">
+          West Covina Dentistry<br />
+          123 Main Street<br />
+          West Covina, CA 91722<br />
+          (626)329-1203<br />
+          <a
+            style="
+              text-decoration: none;
+              color: #3db2ff;
+              display: block;
+              padding: 10px 0;
+              font-size: 14px;
+            "
+            href="https://www.stevenme.com"
+            >West Covina Dentistry</a
+          ><br /><br />
+          <a
+            href="https://unsubscribe1.netlify.app"
+            style="color: #7a7a7a; text-decoration: underline; font-size: 12px"
+            >Click here to Unsubscribe</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
